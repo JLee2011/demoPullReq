@@ -1,5 +1,7 @@
-# demoPullReqConflict
+# push/pull conflicts
 
 this is a long placeholder
 
-adding text to line 5
+
+
+adding text line 7
