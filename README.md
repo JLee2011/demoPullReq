@@ -1,5 +1,11 @@
-# demoPullReq
+
+# push/pull conflicts
 
 this is a long placeholder
-added text line 4 , feature 1 branch
-using feature1 branch
+
+
+
+change in h1
+let's try this again.  push this to github  
+
+
